@@ -12,8 +12,15 @@
 * Nathan Dumlao
 * Ian Parker 
 * Geronimo Giqueaux 
-
+* Massimo Margagnoni
+ 
 </p>
+
+<br>
+
+All Photos Licensed Under Creative Commons 2.0 - [Check it here!](https://creativecommons.org/licenses/by/2.0/legalcode)
+ 
+
 
 <br>
 <hr>
