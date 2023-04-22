@@ -12,6 +12,8 @@
 * Nathan Dumlao
 * Ian Parker 
 * Geronimo Giqueaux 
+* Massimo Margagnoni
+ 
 </p>
 
 <br>
