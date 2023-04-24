@@ -1,24 +1,24 @@
 <h1> Photo Blog 📸</h1>
 
-<p> Mini Training Project made in the Web Developer Course by Colt Steele. </p>
+<p> :pushpin: Mini Training Project made in the Web Developer Course by Colt Steele. </p>
 
 <br>
 
-<p> Many thanks for the amazing photos on unsplash website to:
+<p> :clap: Many thanks for the amazing photos on unsplash website to:
 
-* Fabrice Villard
-* Zeke Tucker
-* Esteban Amaro
-* Nathan Dumlao
-* Ian Parker 
-* Geronimo Giqueaux 
-* Massimo Margagnoni
+* Fabrice Villard;
+* Zeke Tucker;
+* Esteban Amaro;
+* Nathan Dumlao;
+* Ian Parker;
+* Geronimo Giqueaux;
+* Massimo Margagnoni.
  
 </p>
 
 <br>
 
-All Photos Licensed Under Creative Commons 2.0 - [Check it here!](https://creativecommons.org/licenses/by/2.0/legalcode)
+All Photos Licensed Under Creative Commons 2.0 - [:file_folder: Check it here! ](https://creativecommons.org/licenses/by/2.0/legalcode)
  
 
 
