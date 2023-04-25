@@ -12,7 +12,7 @@
 * Nathan Dumlao;
 * Ian Parker;
 * Ali Arif Soydaş;
-* Ali Arif Soydaş;
+* Andrew Neel;
 * K8.
  
 </p>
