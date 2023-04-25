@@ -11,8 +11,9 @@
 * Esteban Amaro;
 * Nathan Dumlao;
 * Ian Parker;
-* Geronimo Giqueaux;
-* Massimo Margagnoni.
+* Ali Arif Soydaş;
+* Ali Arif Soydaş;
+* K8.
  
 </p>
 
