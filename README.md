@@ -4,7 +4,7 @@
 
 <br>
 
-<p> :clap: Many thanks for the amazing photos on unsplash website to:
+:clap: Many thanks for the amazing photos on [unsplash](https://unsplash.com/pt-br) website to:
 
 * Fabrice Villard;
 * Zeke Tucker;
@@ -15,7 +15,6 @@
 * Andrew Neel;
 * K8.
  
-</p>
 
 <br>
 
